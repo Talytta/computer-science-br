@@ -121,8 +121,8 @@ Antes de começar a estudar é importante que você aprenda algumas coisas impor
 
 Curso | Conteúdos
 :-- | --: 
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | Memória; Técnicas de estudo; Recursos de estudo.
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | Tempo; Técnica; Discussão.
+[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | Memória; Técnicas de estudo; Recursos de estudo. :white_check_mark:
+[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | Tempo; Técnica; Discussão. :white_check_mark:
 
 ¹ Disponível com legendas em Português.
 
